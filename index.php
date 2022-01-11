@@ -9,6 +9,10 @@
 <body>
     <h1>Hello git:local!</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum similique explicabo quae alias distinctio corrupti architecto blanditiis quo amet? Laboriosam facere autem recusandae eligendi assumenda sint? Suscipit earum sed et?</p>
+    <ul>
+        <li>Repositories</li>
+        <li>Project</li>
+    </ul>
 </body>
 </html>
 <!-- todo trying to upload repo from local to github -->
